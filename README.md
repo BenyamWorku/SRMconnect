@@ -5,12 +5,12 @@ SRMconnect is a web app for managing student relationships, attendance, and prog
 detailed features broken down by the main features:
 # 1. User Management
 ## 1.1 User Authentication
-User registration
-User login/logout
-Password reset
-JWT token generation on successful login
-JWT token verification on API calls
-Error handling for authentication errors
+  * User registration
+  * User login/logout
+  * Password reset
+  * JWT token generation on successful login
+  * JWT token verification on API calls
+  * Error handling for authentication errors
 ## 1.2 User Authorization
 Authorization middleware for each user role
 Role-based access control (RBAC) implementation
