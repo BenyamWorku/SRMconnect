@@ -6,7 +6,7 @@ detailed features broken down by the main features:
 # 1. User Management
 ## 1.1 User Authentication
   * User registration
-  * User login/logout
+  * User login/logout : consider passwordless login too.
   * Password reset
   * JWT token generation on successful login
   * JWT token verification on API calls
