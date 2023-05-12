@@ -23,7 +23,7 @@ const Layout = ({ children }: { children: any }) => {
       <main className='container mx-auto flex-1 p-4'>{children}</main>
       <footer className='bg-gray-800 py-4'>
         <div className='container mx-auto text-white text-center'>
-          &copy; 2021 My Website
+          &copy; 2023 SRMconnectLite
         </div>
       </footer>
     </div>
